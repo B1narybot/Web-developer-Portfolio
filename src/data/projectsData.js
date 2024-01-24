@@ -6,29 +6,29 @@ import six from '../assets/svg/projects/six.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
+        projectName: 'BrightGroupltd',
+        projectDesc: 'Bright Group Ltd - Transforming visions into digital reality, crafting exceptional web experiences for a brighter online presence.',
+        tags: ['Vue Js', 'SAAS', 'Bootstrap'],
         code: '',
-        demo: 'https://www.aylanetworks.com/',
+        demo: 'https://www.brightgroupltd.com/',
         image: six
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        projectName: 'F1 Fan-site',
+        projectDesc: 'Explore the thrilling world of Formula 1 with in-depth insights, updates, and passion-driven content on my F1 2014 Fansite.',
+        tags: ['Javascript', 'Express', 'NodeJs'],
+        code: 'https://github.com/B1narybot/F1-Fansite',
+        demo: '#/',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
+        projectName: 'Swiss Mint',
+        projectDesc: 'Elevate your style with timeless elegance – discover exclusive fashion pieces at Swiss Mint, your premier online destination for sophisticated attire.',
         tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        code: 'https://github.com/B1narybot/',
+        demo: '#',
         image: eight
     }
 ]

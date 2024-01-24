@@ -1,9 +1,9 @@
 
 export const headerData = {
-    name: 'ABU SAID',
-    title: "Hello! I am",
-    desciption: "Hello! I am ABU SAID, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
-    image: 'https://i.ibb.co/ZmdNH6x/abu-said.jpg',
-    imagebw: 'https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg',
-    resumePdf: 'https://docs.google.com/document/d/1MkkoRX98FS47CaEyeodyPzi4OkW8SH7Gv55f4MQkHV8/edit?usp=sharing'
+    name: 'Tounga Saidou',
+    title: "Hello World!",
+    desciption: "Welcome to my corner of the web! I'm Tounga Saidou, a skilled web developer passionate about transforming innovative ideas into interactive digital experiences. With a focus on clean design and efficient code, I bring websites to life that not only look impressive but also function seamlessly. . ",
+    image: '/Users/ONL1NE/Desktop/DeveloperPortfolio /Images/profile image .jpeg',
+    imagebw: '/Users/ONL1NE/Desktop/DeveloperPortfolio /Images/profile image .jpeg',
+    resumePdf: '#'
 }
